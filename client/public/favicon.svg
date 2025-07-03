@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 60">
+  <text x="50%" y="75%" 
+        font-family="'Courier New', monospace" 
+        font-size="48" 
+        font-weight="700" 
+        text-anchor="middle" 
+        fill="#ffffff"
+        stroke="#ffffff"
+        stroke-width="1"
+        paint-order="stroke">
+    SIE
+  </text>
+</svg>
